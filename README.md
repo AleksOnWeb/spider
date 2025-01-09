@@ -1,5 +1,7 @@
 Песочница с игрой пасьянс-паук
 
-#setup yarn
+# setup
+yarn
 
-#run local yarn run dev
+# run
+local yarn run dev
