@@ -1,0 +1,12 @@
+{
+	"default": [
+		"./assets/cards/default/images/atlas0.json",
+		"./assets/spider/default/pack.json"
+	],
+	"resolutions": {
+		"default": [
+			2150,
+			1300
+		]
+	}
+}

@@ -1,2 +1,5 @@
-# spider
-PIXI showcase
+Песочница с игрой пасьянс-паук
+
+#setup yarn
+
+#run local yarn run dev
