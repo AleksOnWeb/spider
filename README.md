@@ -12,3 +12,5 @@ src/states/spider/Spider.ts - game logic
 src/skeleton/Scene.ts - stage
 
 src/skeleton/gui - controls
+
+src/loader/Loader.ts - loader
